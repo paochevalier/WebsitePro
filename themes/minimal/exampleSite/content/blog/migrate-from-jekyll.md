@@ -1,8 +1,13 @@
 ---
-title: "Migrate from Jekyll"
-date: 2014-03-10
-tags: ["go", "golang", "hugo", "jekyll", "static-site-generator"]
+date: "2014-03-10"
 draft: false
+tags:
+- go
+- golang
+- hugo
+- jekyll
+- static-site-generator
+title: Migrate from Jekyll
 ---
 
 ## Move static content to `static`

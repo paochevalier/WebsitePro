@@ -1,9 +1,10 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "en-uk"
 title = "Paolo Chevalier"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
+pluralizelisttitles = false
 
 [params]
     author = "Calin Tataru"
@@ -26,16 +27,26 @@ googleAnalytics = ""
     url = "/about/"
     name = "About"
     weight = 2
-
+    
 [[menu.main]]
-    url = "/post/"
-    name = "Posts"
+    url = "/blog/"
+    name = "Blog"
     weight = 3
+    
 
 [[menu.main]]
-    url = "/project/"
-    name = "Projects"
+    url = "/data visualisation/"
+    name = "Data visualisation"
     weight = 4
+[[menu.main]]
+    url = "/resume/"
+    name = "Resume"
+    weight = 5
+
+[[menu.main]]
+    url = "/scientific publications/"
+    name = "Scientific publications"
+    weight = 6
 
 # Social icons to be shown on the right-hand side of the navigation bar.
 # The "name" field should match the name of the icon in Font Awesome.
@@ -52,7 +63,7 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
+    url = "https://twitter.com/paolochevalier/"
     name = "twitter"
     weight = 3
 

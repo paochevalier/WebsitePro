@@ -1,8 +1,12 @@
 ---
-title: "Creating a New Theme"
-date: 2014-09-28
-tags: ["go", "golang", "hugo", "themes"]
+date: "2014-09-28"
 draft: false
+tags:
+- go
+- golang
+- hugo
+- themes
+title: Creating a New Theme
 ---
 
 ## Introduction

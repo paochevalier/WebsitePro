@@ -1,8 +1,13 @@
 ---
-title: "(Hu)go Template Primer"
-date: 2014-04-02
-tags: [ "go", "golang", "template", "themes", "development"]
+date: "2014-04-02"
 draft: false
+tags:
+- go
+- golang
+- template
+- themes
+- development
+title: (Hu)go Template Primer
 ---
 
 Hugo uses the excellent [go][] [html/template][gohtmltemplate] library for
