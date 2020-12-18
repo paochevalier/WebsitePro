@@ -21,8 +21,8 @@ Experience
 **2015-Today**
 :   **Researcher**, [Laboratoire Ville Mobilité Transport (LVMT)](https://www.lvmt.fr/) (Champs-sur-Marne, France)
 and [Centre d’Estudis Demogràfics (CED)](https://ced.uab.cat/) (Barcelone, Espagne)
-* **2020-Today**: Research associate
-* **2015-2020**: PhD candidate
+  * **2020-Today**: Research associate
+  * **2015-2020**: PhD candidate
 
 **2017-2019**
 :   **Teaching assistant**, [Université Paris-Est](https://www.univ-gustave-eiffel.fr/) and [École d’Urbanisme de Paris ](https://www.eup.fr/en/) (Champs-sur-Marne, France)
