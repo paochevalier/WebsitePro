@@ -3,94 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/scientific-publications/project1/</loc>
+    <loc>/scientific-publications/thesedoctorat/</loc>
   </url>
   
   <url>
-    <loc>/scientific-publications/project2/</loc>
+    <loc>/scientific-publications/articleteoros/</loc>
   </url>
   
   <url>
-    <loc>/scientific-publications/project3/</loc>
-  </url>
-  
-  <url>
-    <loc>/scientific-publications/project4/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/go/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/golang/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/themes/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/template/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/static-site-generator/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>/scientific-publications/articlevieilla/</loc>
   </url>
   
   <url>
@@ -98,11 +19,19 @@
   </url>
   
   <url>
-    <loc>/data-visualisation/data-visualisation/</loc>
+    <loc>/data-visualisation/</loc>
   </url>
   
   <url>
-    <loc>/tags/bootstrap/</loc>
+    <loc>/tags/airbnb/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/approche-biographique/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/barcelone/</loc>
   </url>
   
   <url>
@@ -110,27 +39,39 @@
   </url>
   
   <url>
-    <loc>/tags/css/</loc>
+    <loc>/tags/comparaison-europ%C3%A9enne/</loc>
   </url>
   
   <url>
-    <loc>/data-visualisation/</loc>
+    <loc>/tags/donn%C3%A9es-gps/</loc>
   </url>
   
   <url>
-    <loc>/tags/highlight-js/</loc>
+    <loc>/tags/d%C3%A9pendance-%C3%A0-la-mobilit%C3%A9/</loc>
   </url>
   
   <url>
-    <loc>/tags/html/</loc>
+    <loc>/tags/european-comparison/</loc>
   </url>
   
   <url>
-    <loc>/tags/js/</loc>
+    <loc>/tags/extreme-commuting/</loc>
   </url>
   
   <url>
-    <loc>/tags/responsive/</loc>
+    <loc>/tags/logement-%C3%A0-usage-touristique/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/mobilit%C3%A9s-quotidiennes-et-r%C3%A9sidentielles/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/m%C3%A9nages/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
   </url>
   
   <url>
@@ -142,7 +83,15 @@
   </url>
   
   <url>
-    <loc>/tags/syntax-highlighting/</loc>
+    <loc>/tags/social-inequality/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/tourisme/</loc>
   </url>
   
 </urlset>

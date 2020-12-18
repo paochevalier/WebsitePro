@@ -7,39 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language><atom:link href="/scientific-publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1</title>
-      <link>/scientific-publications/project1/</link>
+      <title>Une approche spatio-temporelle de la dépendance à la mobilité dans les métropoles de Barcelone et d’Aix-Marseille-Provence</title>
+      <link>/scientific-publications/thesedoctorat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/scientific-publications/project1/</guid>
-      <description></description>
+      <guid>/scientific-publications/thesedoctorat/</guid>
+      <description>Kind of scientific publication : PhD dissertation
+Abstract (in french): Cette thèse tente d’éclairer un paradoxe entre, d’un côté, le fait que la mobilité spatiale constitue une ressource, notamment à l’accès à l’emploi ou au logement, et, de l’autre, que les pratiques de mobilité génèrent des coûts ou des difficultés importantes (en termes financiers, d’efforts au quotidien, de conséquences sur l’organisation de la vie personnelle ou familiale), en particulier pour ceux qui ont de longs budgets-temps de transport pour se rendre sur leur(s) lieu(x) de travail.</description>
     </item>
     
     <item>
-      <title>Project 2</title>
-      <link>/scientific-publications/project2/</link>
+      <title>Diminution du nombre de logements disponibles pour les ménages et pression touristique, l’exemple de Barcelone</title>
+      <link>/scientific-publications/articleteoros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/scientific-publications/project2/</guid>
-      <description></description>
+      <guid>/scientific-publications/articleteoros/</guid>
+      <description>Kind of scientific publication : Article in a scientific journal
+Abstract: Ces dernières années, le tourisme augmente de manière exceptionnelle dans des villes européennes comme Barcelone. Simultanément à l’accroissement du nombre de visiteurs et celui des nuitées, le nombre de chambres disponibles dans l’hôtellerie traditionnelle progresse. Aussi, pour diversifier l’offre, la quantité de logements à usage touristique a augmenté. Cette forme d’hébergement touristique transforme progressivement le parc de logements dans les quartiers centraux de la ville, changement qui pourrait modifier la structure de la population résidente permanente.</description>
     </item>
     
     <item>
-      <title>Project 3</title>
-      <link>/scientific-publications/project3/</link>
+      <title>Long Commutes, Another Dimension of Inequality among Low-Income Workers. Evidence from Barcelona and Marseille</title>
+      <link>/scientific-publications/articlevieilla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/scientific-publications/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 4</title>
-      <link>/scientific-publications/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/scientific-publications/project4/</guid>
-      <description></description>
+      <guid>/scientific-publications/articlevieilla/</guid>
+      <description>Kind of scientific publication : Chapter of a scientific book
+Abstract: This article focuses on low-income workers who spend more than 90 minutes a day commuting between their place of residence and their workplace(s) in the metropolitan areas of Marseille and Barcelona. These workers typically require a longer commuting time per day than the rest of the population and, at the same time, they have limited economic resources to afford the said commute.</description>
     </item>
     
   </channel>

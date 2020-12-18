@@ -5,87 +5,35 @@
     <link>/</link>
     <description>Recent content on Paolo Chevalier</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-uk</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1</title>
-      <link>/scientific-publications/project1/</link>
+      <title>Une approche spatio-temporelle de la dépendance à la mobilité dans les métropoles de Barcelone et d’Aix-Marseille-Provence</title>
+      <link>/scientific-publications/thesedoctorat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/scientific-publications/project1/</guid>
-      <description></description>
+      <guid>/scientific-publications/thesedoctorat/</guid>
+      <description>Kind of scientific publication : PhD dissertation
+Abstract (in french): Cette thèse tente d’éclairer un paradoxe entre, d’un côté, le fait que la mobilité spatiale constitue une ressource, notamment à l’accès à l’emploi ou au logement, et, de l’autre, que les pratiques de mobilité génèrent des coûts ou des difficultés importantes (en termes financiers, d’efforts au quotidien, de conséquences sur l’organisation de la vie personnelle ou familiale), en particulier pour ceux qui ont de longs budgets-temps de transport pour se rendre sur leur(s) lieu(x) de travail.</description>
     </item>
     
     <item>
-      <title>Project 2</title>
-      <link>/scientific-publications/project2/</link>
+      <title>Diminution du nombre de logements disponibles pour les ménages et pression touristique, l’exemple de Barcelone</title>
+      <link>/scientific-publications/articleteoros/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/scientific-publications/project2/</guid>
-      <description></description>
+      <guid>/scientific-publications/articleteoros/</guid>
+      <description>Kind of scientific publication : Article in a scientific journal
+Abstract: Ces dernières années, le tourisme augmente de manière exceptionnelle dans des villes européennes comme Barcelone. Simultanément à l’accroissement du nombre de visiteurs et celui des nuitées, le nombre de chambres disponibles dans l’hôtellerie traditionnelle progresse. Aussi, pour diversifier l’offre, la quantité de logements à usage touristique a augmenté. Cette forme d’hébergement touristique transforme progressivement le parc de logements dans les quartiers centraux de la ville, changement qui pourrait modifier la structure de la population résidente permanente.</description>
     </item>
     
     <item>
-      <title>Project 3</title>
-      <link>/scientific-publications/project3/</link>
+      <title>Long Commutes, Another Dimension of Inequality among Low-Income Workers. Evidence from Barcelona and Marseille</title>
+      <link>/scientific-publications/articlevieilla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/scientific-publications/project3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project 4</title>
-      <link>/scientific-publications/project4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/scientific-publications/project4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/blog/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/blog/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate from Jekyll</title>
-      <link>/blog/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>/scientific-publications/articlevieilla/</guid>
+      <description>Kind of scientific publication : Chapter of a scientific book
+Abstract: This article focuses on low-income workers who spend more than 90 minutes a day commuting between their place of residence and their workplace(s) in the metropolitan areas of Marseille and Barcelona. These workers typically require a longer commuting time per day than the rest of the population and, at the same time, they have limited economic resources to afford the said commute.</description>
     </item>
     
     <item>
@@ -94,15 +42,16 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>After studying in different European cities (Barcelona, Dublin, Lille, Paris, Rostock or Warsaw), I started in October 2015 a doctoral thesis under the joint supervision of Caroline Gallez (LVMT) and Juan Antonio Módenes (CED) as well as the supervision of Sandrine Wenglenski (LVMT). The 20th of November 2020, I successfully defended my PhD dissertation A Spatial-Temporal Approach to the Dependence on Mobility in the Metropolitan Region of Barcelona and the Metropolis Aix-Marseille-Provence.</description>
+      <description>After studying in different European cities (Barcelona, Dublin, Lille, Paris, Rostock or Warsaw), I started a doctoral thesis under the joint supervision of Caroline Gallez (LVMT), Sandrine Wenglenski (LVMT) and Juan Antonio Módenes (CED) in October 2015. The 20th November 2020, I successfully defended my PhD dissertation A Spatial-Temporal Approach to the Dependence on Mobility in the metropolises of Barcelona and Aix-Marseille-Provence.
+In January 2021, I began a new journey within the company Kisio in Lyon (France) where I continue my research agenda as well as working for a better understanding of GPS data in order to learn about individual daily mobility.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/data-visualisation/data-visualisation/</link>
+      <link>/data-visualisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/data-visualisation/data-visualisation/</guid>
+      <guid>/data-visualisation/</guid>
       <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
     </item>
     
