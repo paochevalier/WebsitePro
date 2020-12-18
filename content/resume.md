@@ -16,27 +16,27 @@ Experience
 
 **2021-Today**
 :   **Consultant in Data Science**, [Kisio](https://kisio.com/) (Lyon, France)
-- Analysing GPS data to better understand individual daily mobility
+  * Analysing GPS data to better understand individual daily mobility
 
 **2015-Today**
 :   **Researcher**, [Laboratoire Ville Mobilité Transport (LVMT)](https://www.lvmt.fr/) (Champs-sur-Marne, France)
 and [Centre d’Estudis Demogràfics (CED)](https://ced.uab.cat/) (Barcelone, Espagne)
-- **2020-Today**: Research associate
-- **2015-2020**: PhD candidate
+* **2020-Today**: Research associate
+* **2015-2020**: PhD candidate
 
 **2017-2019**
 :   **Teaching assistant**, [Université Paris-Est](https://www.univ-gustave-eiffel.fr/) and [École d’Urbanisme de Paris ](https://www.eup.fr/en/) (Champs-sur-Marne, France)
-- Teaching « Statistics and Cartography » to the 2nd year of Bachelor’s Degree in Geography
-- Teaching « Demography » to the 1st year of Master’s Degree in Urban Planning
+* Teaching « Statistics and Cartography » to the 2nd year of Bachelor’s Degree in Geography
+* Teaching « Demography » to the 1st year of Master’s Degree in Urban Planning
 
 **2017-2019**
 :   **Reviewer**,[Documents d’Anàlisi Geogràfica (DAG)](https://dag.revista.uab.es/) (Barcelona, Spain)
-- Reviewing scientific articles for the geographic review Documents d’Anàlisi Geogràfica (DAG)
+* Reviewing scientific articles for the geographic review Documents d’Anàlisi Geogràfica (DAG)
 
 **2013 (2 months)**
 :   **Internship at the  General Directorate of Planning**, [City Council of Bordeaux](https://www.bordeaux.fr/o166/direction-de-l-urbanisme-du-patrimoine-et-des-paysages) (Bordeaux, France)
-- Census of a new ecodistrict (Ginko, Bordeaux)
-- Statistical analysis of its new inhabitants.
+* Census of a new ecodistrict (Ginko, Bordeaux)
+* Statistical analysis of its new inhabitants.
 
   
 Education
@@ -47,10 +47,11 @@ Education
 
 *Thesis title: A Spatial-Temporal Approach to the Dependence on Mobility in the metropolises of Barcelona and Aix-Marseille-Provence*
 
+
 **2014-2015**
 :   **European Certificate of Demography**; [European Doctoral School of Demography (EDSD)](https://www.eds-demography.org/): 
-- 6 weeks preparatory courses (Mathematics, Statistics, Demography and Computing) at the Max Planck Institute for Demographic Research (Rostock, Germany)
-- 9 months courses at the Warsaw School of Economics (Warsaw, Poland)
+* 6 weeks preparatory courses (Mathematics, Statistics, Demography and Computing) at the Max Planck Institute for Demographic Research (Rostock, Germany)
+* 9 months courses at the Warsaw School of Economics (Warsaw, Poland)
 
 **2013-2014**
 :   **Master’s Degree, Regional and Population Studies (specialization in Demography)**, [Universitat Autònoma de Barcelona](https://www.uab.cat/) (Barcelona, Spain)
