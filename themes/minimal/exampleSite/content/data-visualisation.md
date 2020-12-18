@@ -1,11 +1,60 @@
 ---
-description: What is Hugo?
-title: About
+description: Some examples of my production
+title: Data visualisation
 ---
 
-Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
-Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.
+# **Maps**
 
-Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere, including Netlify, Heroku, GoDaddy, DreamHost, GitHub Pages, GitLab Pages, Surge, Aerobatic, Firebase, Google Cloud Storage, Amazon S3, Rackspace, Azure, and CloudFront and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP.
+### *Presenting the sample of my PhD research (place of residence and daily mobility)*
 
-We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+![GPS Barcelona](/images/TrackingMAMP.png) |  ![GPS Marseille](/images/TrackingRMB.png)
+:-------------------------:|:-------------------------:
+**Metropolis of Barcelona**    |**Metropolis of Marseille**
+
+
+![Origins](/images/CarteOrigines.png) 
+**Places of birth of the individuals from my sample** 
+
+### *Comparing two metropolises* 
+
+![ZAE](/images/ComparaisonRoutierZAE.png) |  ![Poverty Rate](/images/ComparaisonDistributionTxdePauvreté.png)
+:-------------------------:|:-------------------------:
+**Road network and economic activity zones**    |**Distribution of the poverty rate**
+
+### *2D Spatio-temporal approach to daily mobility*
+
+![GPS Barcelona](/images/2DDailyMobilityG.jpg) |  ![GPS Marseille](/images/2DDailyMobilityM.jpg)
+:-------------------------:|:-------------------------:
+  **Metropolis of Barcelona** | **Metropolis of Marseille**
+
+### *2D Spatio-temporal approach to life courses*
+
+![GPS Barcelona](/images/2DLifeTrajectoryR.jpg) |  ![GPS Marseille](/images/2DLifeTrajectoryK.jpg)
+:-------------------------:|:-------------------------:
+                          |
+
+# **Graphs**
+
+### *Observing the combination of means of transport and waiting time*
+
+![Sequence](/images/Sequence.png)
+
+### *Comparing the distribution of a variable*
+
+
+![Time](/images/Temps.jpg) |   ![Speed](/images/Vitesse.jpg)
+:-------------------------:|:-------------------------:
+  **Time** | **Speed** 
+  
+
+### *Presenting the sample of my PhD research*
+
+![Sample](/images/GraphTypologie.jpg)
+
+### *Presenting results of a logistic regression*
+
+![RegressionBi](/images/RegressionBi.png)
+
+### *Presenting results of a multinomial logistic regression*
+
+![RegressionMulti](/images/RegressionMulti.png)

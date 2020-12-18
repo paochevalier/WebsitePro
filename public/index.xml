@@ -47,12 +47,13 @@ In January 2021, I began a new journey within the company Kisio in Lyon (France)
     </item>
     
     <item>
-      <title>About</title>
+      <title>Data visualisation</title>
       <link>/data-visualisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/data-visualisation/</guid>
-      <description>Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again. Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.</description>
+      <description>Maps Presenting the sample of my PhD research (place of residence and daily mobility)          Metropolis of Barcelona Metropolis of Marseille    Places of birth of the individuals from my sample
+Comparing two metropolises          Road network and economic activity zones Distribution of the poverty rate    2D Spatio-temporal approach to daily mobility          Metropolis of Barcelona Metropolis of Marseille    2D Spatio-temporal approach to life courses               Graphs Observing the combination of means of transport and waiting time Comparing the distribution of a variable          Time Speed    Presenting the sample of my PhD research Presenting results of a logistic regression Presenting results of a multinomial logistic regression </description>
     </item>
     
     <item>

@@ -19,10 +19,6 @@
   </url>
   
   <url>
-    <loc>/data-visualisation/</loc>
-  </url>
-  
-  <url>
     <loc>/tags/airbnb/</loc>
   </url>
   
@@ -40,6 +36,10 @@
   
   <url>
     <loc>/tags/comparaison-europ%C3%A9enne/</loc>
+  </url>
+  
+  <url>
+    <loc>/data-visualisation/</loc>
   </url>
   
   <url>

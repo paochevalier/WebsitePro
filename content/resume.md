@@ -86,7 +86,7 @@ Computing and Languages
 - **Spanish**: C2 level 
 - **Catalan**: B2 level 
 
-Prize and distinctions:
+Prizes and distinctions:
 ----------
 
 * My PhD in Demography received an *Excel·lent - Cum Laude* (highest distinction at the [Universitat Autònoma de Barcelona](https://www.uab.cat/))
