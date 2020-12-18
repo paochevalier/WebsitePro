@@ -34,11 +34,29 @@
     </item>
     
     <item>
+      <title>bootstrap</title>
+      <link>/tags/bootstrap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Comparaison européenne</title>
       <link>/tags/comparaison-europ%C3%A9enne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/comparaison-europ%C3%A9enne/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/css/</guid>
       <description></description>
     </item>
     
@@ -79,6 +97,60 @@
     </item>
     
     <item>
+      <title>go</title>
+      <link>/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highlight-js</title>
+      <link>/tags/highlight-js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/highlight-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>html</title>
+      <link>/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>js</title>
+      <link>/tags/js/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Logement à usage touristique</title>
       <link>/tags/logement-%C3%A0-usage-touristique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -106,11 +178,29 @@
     </item>
     
     <item>
+      <title>responsive</title>
+      <link>/tags/responsive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/responsive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social inequality</title>
       <link>/tags/social-inequality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/social-inequality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax-highlighting</title>
+      <link>/tags/syntax-highlighting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     

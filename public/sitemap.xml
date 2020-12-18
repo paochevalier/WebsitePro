@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/scientific-publications/project1/</loc>
+  </url>
+  
+  <url>
     <loc>/scientific-publications/thesedoctorat/</loc>
   </url>
   
@@ -11,7 +15,19 @@
   </url>
   
   <url>
+    <loc>/scientific-publications/project2/</loc>
+  </url>
+  
+  <url>
     <loc>/scientific-publications/articlevieilla/</loc>
+  </url>
+  
+  <url>
+    <loc>/scientific-publications/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>/scientific-publications/project4/</loc>
   </url>
   
   <url>
@@ -31,11 +47,19 @@
   </url>
   
   <url>
+    <loc>/tags/bootstrap/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
   </url>
   
   <url>
     <loc>/tags/comparaison-europ%C3%A9enne/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/css/</loc>
   </url>
   
   <url>
@@ -59,6 +83,30 @@
   </url>
   
   <url>
+    <loc>/tags/go/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/golang/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/highlight-js/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/hugo/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/js/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/logement-%C3%A0-usage-touristique/</loc>
   </url>
   
@@ -75,6 +123,10 @@
   </url>
   
   <url>
+    <loc>/tags/responsive/</loc>
+  </url>
+  
+  <url>
     <loc>/resume/</loc>
   </url>
   
@@ -84,6 +136,10 @@
   
   <url>
     <loc>/tags/social-inequality/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/syntax-highlighting/</loc>
   </url>
   
   <url>

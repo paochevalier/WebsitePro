@@ -5,7 +5,7 @@ theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 pluralizelisttitles = false
-
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     author = "Paolo Chevalier"
     description = "Welcome to my professional website"
@@ -33,7 +33,7 @@ pluralizelisttitles = false
     name = "Blog"
     weight = 3
     
-
+ 
 [[menu.main]]
     url = "/data visualisation/"
     name = "Data visualisation"
