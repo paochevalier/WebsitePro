@@ -7,7 +7,7 @@ googleAnalytics = ""
 pluralizelisttitles = false
 
 [params]
-    author = "Calin Tataru"
+    author = "Paolo Chevalier"
     description = "Welcome to my professional website"
     githubUsername = "#"
     accent = "black"
@@ -53,12 +53,12 @@ pluralizelisttitles = false
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "paol.chevalier@gmail.com"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/paochevalier/WebsitePro"
     name = "github"
     weight = 2
 
@@ -68,11 +68,7 @@ pluralizelisttitles = false
     weight = 3
 
 [[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
+    url = "https://www.linkedin.com/in/paolo-chevalier-6a0b9a88/"
     name = "linkedin"
     weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5

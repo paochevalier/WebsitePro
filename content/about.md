@@ -1,11 +1,10 @@
 ---
-description: What is Hugo?
+description: Me
 title: About
 ---
 
-Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.
-Hugo is a general-purpose website framework. Technically speaking, Hugo is a static site generator. Unlike systems that dynamically build a page with each visitor request, Hugo builds pages when you create or update your content. Since websites are viewed far more often than they are edited, Hugo is designed to provide an optimal viewing experience for your website’s end users and an ideal writing experience for website authors.
+After studying in different European cities (Barcelona, Dublin, Lille, Paris, Rostock or Warsaw), I started a doctoral thesis under the joint supervision of [Caroline Gallez (LVMT)](https://www.lvmt.fr/equipe/copie-de-copie-de-caroline-gallez-2/), [Sandrine Wenglenski (LVMT)](https://www.lvmt.fr/equipe/sandrine-wenglenski/) and [Juan Antonio Módenes (CED)](https://ced.uab.cat/es/directori/juan-antonio-modenes-cabrerizo/) in October 2015. The 20th November 2020, I successfully defended my PhD dissertation *A Spatial-Temporal Approach to the Dependence on Mobility in the metropolises of Barcelona and Aix-Marseille-Provence*. 
 
-Websites built with Hugo are extremely fast and secure. Hugo sites can be hosted anywhere, including Netlify, Heroku, GoDaddy, DreamHost, GitHub Pages, GitLab Pages, Surge, Aerobatic, Firebase, Google Cloud Storage, Amazon S3, Rackspace, Azure, and CloudFront and work well with CDNs. Hugo sites run without the need for a database or dependencies on expensive runtimes like Ruby, Python, or PHP.
+In January 2021, I began a new journey within the company [Kisio](https://kisio.com/) in Lyon (France) where I continue my research agenda as well as working for a better understanding of GPS data in order to learn about individual daily mobility. 
 
-We think of Hugo as the ideal website creation tool with nearly instant build times, able to rebuild whenever a change is made.
+In my professional website, you will find some posts I wrote in my blog, some examples of data visualisation I produced, my resume updated and a list of my scientific publications. Also, you have some direct links to my social media accounts, to the code I used to build this website (Github repository) and to my mail address. Do not hesitate to contact me for questions or projects you have in mind and I could be interested to participate! 

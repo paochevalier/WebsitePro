@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume on Paolo Chevalier</title>
+    <link>/resume/</link>
+    <description>Recent content in Resume on Paolo Chevalier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language><atom:link href="/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>/resume/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/resume/</guid>
+      <description>Paolo Chevalier Born in Bordeaux (France), in July, 6th 1990. Driving license A1 and B
+Experience  2021-Today Consultant in Data Science, Kisio (Lyon, France)   Analysing GPS data to better understand individual daily mobility   2015-Today Researcher, Laboratoire Ville Mobilité Transport (LVMT) (Champs-sur-Marne, France) and Centre d’Estudis Demogràfics (CED) (Barcelone, Espagne)   2020-Today: Research associate 2015-2020: PhD candidate   2017-2019 Teaching assistant, Université Paris-Est and École d’Urbanisme de Paris  (Champs-sur-Marne, France)   Teaching « Statistics and Cartography » to the 2nd year of Bachelor’s Degree in Geography Teaching « Demography » to the 1st year of Master’s Degree in Urban Planning   2017-2019 Reviewer,Documents d’Anàlisi Geogràfica (DAG) (Barcelona, Spain)   Reviewing scientific articles for the geographic review Documents d’Anàlisi Geogràfica (DAG)   2013 (2 months) Internship at the General Directorate of Planning, City Council of Bordeaux (Bordeaux, France)   Census of a new ecodistrict (Ginko, Bordeaux) Statistical analysis of its new inhabitants.</description>
+    </item>
+    
+  </channel>
+</rss>

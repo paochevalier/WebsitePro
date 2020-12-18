@@ -3,23 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/project1/</loc>
+    <loc>/scientific-publications/project1/</loc>
   </url>
   
   <url>
-    <loc>/project/project2/</loc>
+    <loc>/scientific-publications/project2/</loc>
   </url>
   
   <url>
-    <loc>/project/project3/</loc>
+    <loc>/scientific-publications/project3/</loc>
   </url>
   
   <url>
-    <loc>/project/project4/</loc>
+    <loc>/scientific-publications/project4/</loc>
   </url>
   
   <url>
-    <loc>/post/creating-a-new-theme/</loc>
+    <loc>/blog/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -44,11 +49,6 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
@@ -59,7 +59,7 @@
   </url>
   
   <url>
-    <loc>/post/goisforlovers/</loc>
+    <loc>/blog/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -69,7 +69,7 @@
   </url>
   
   <url>
-    <loc>/post/hugoisforlovers/</loc>
+    <loc>/blog/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,7 +84,7 @@
   </url>
   
   <url>
-    <loc>/post/migrate-from-jekyll/</loc>
+    <loc>/blog/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -95,6 +95,10 @@
   
   <url>
     <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/data-visualisation/data-visualisation/</loc>
   </url>
   
   <url>
@@ -110,6 +114,10 @@
   </url>
   
   <url>
+    <loc>/data-visualisation/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/highlight-js/</loc>
   </url>
   
@@ -122,11 +130,15 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/tags/responsive/</loc>
   </url>
   
   <url>
-    <loc>/tags/responsive/</loc>
+    <loc>/resume/</loc>
+  </url>
+  
+  <url>
+    <loc>/scientific-publications/</loc>
   </url>
   
   <url>
