@@ -1,18 +1,18 @@
 ---
+title: "Une approche spatio-temporelle de la dépendance à la mobilité dans les métropoles de Barcelone et d’Aix-Marseille-Provence"
 description: Paolo Chevalier
+date: 2020-11-20 
+tags: ["Dépendance à la mobilité", "Mobilités quotidiennes et résidentielles", "Approche biographique", "Données GPS", "Comparaison européenne"]
 draft: false
-repo: '#'
-tags:
-- Dépendance à la mobilité
-- Mobilités quotidiennes et résidentielles
-- Approche biographique
-- Données GPS
-- Comparaison européenne
-title: Une approche spatio-temporelle de la dépendance à la mobilité dans les métropoles de Barcelone et d’Aix-Marseille-Provence
-weight: 1
 ---
+
+**Date of release**: 2020
+
 **Kind of scientific publication** : PhD dissertation
 
+**To read the document** : Soon available in HAL.  
+
+**[English, Catalan and Spanigh abstract below]**
 **Abstract (in french)**: Cette thèse tente d’éclairer un paradoxe entre, d’un côté, le fait que la mobilité spatiale constitue une ressource, notamment à l’accès à l’emploi ou au logement, et, de l’autre, que les pratiques de mobilité génèrent des coûts ou des difficultés importantes (en termes financiers, d’efforts au quotidien, de conséquences sur l’organisation de la vie personnelle ou familiale), en particulier pour ceux qui ont de longs budgets-temps de transport pour se rendre sur leur(s) lieu(x) de travail. Nous nous intéressons aux travailleurs qui appartiennent aux catégories sociales les plus modestes, car nous faisons l’hypothèse qu’ils ont moins de marges de manœuvre pour s’adapter à ces situations de mobilité fortement contraintes. Pour cette étude, nous chercherons à comprendre dans quelle mesure les longs budgets-temps quotidiens pour se rendre au travail sont révélateurs d’une dépendance à la mobilité et quelles en sont les formes et les conséquences pour les actifs disposant de revenus modestes.
 
 Après avoir quantifié cette population avec les enquêtes de mobilité disponibles dans la région métropolitaine de Barcelone et la métropole d’Aix-Marseille-Provence et divisé celle-ci en quatre groupes : les « Lents pendulaires », les « Rapides pendulaires », les « Lents multi-lieux de travail » et les « Rapides multi-lieux de travail », nous mènerons une enquête qualitative auprès de quarante d’entre eux. D’abord, la collecte de données GPS va permettre d’observer leurs déplacements quotidiens pendant une semaine. Un entretien semi-directif avec les individus permet ensuite de commenter l’espace parcouru ainsi que leur situation résidentielle, professionnelle et familiale. Dans un second temps, le recueil de données biographiques nous donnera la possibilité de reconstruire leur parcours de vie dans le temps et dans l’espace. Avec cet ensemble de données, nous analysons comment cette situation de mobilité quotidienne fortement contrainte est liée aux ajustements entre leurs aspirations et les conditions d’accès au logement, aux ajustements de la vie professionnelle et de la situation familiale, et, aussi, aux évolutions de leurs aptitudes et de leurs potentiels de mobilité au cours de la vie. Malgré l’observation de pratiques de mobilité très hétérogènes, nous constatons, pour les actifs modestes, que les longs budgets-temps de transport sont, parfois, le prix à payer pour être intégrés socialement dans ces deux métropoles européennes.
@@ -39,8 +39,4 @@ Després d’haver quantificat aquesta població amb les enquestes de mobilitat 
 Después de haber cuantificado esta población con las encuestas de movilidad disponibles en la región metropolitana de Barcelona y la metrópolis Aix-Marseille-Provence y haberla dividido en cuatro grupos: los “Lentos con un único lugar de trabajo”, los “Rápidos con un único lugar de trabajo”, los “Lentos con múltiples lugares de trabajo” y los “Rápidos con múltiples lugares de trabajo”, realizaremos una encuesta cualitativa de 40 de estos trabajadores. En primer lugar, la recopilación de datos GPS permite observar sus movimientos diarios durante una semana. Posteriormente, una entrevista semiestructurada posibilita comentar el espacio recorrido así como su situación residencial, profesional y familiar. La recopilación de datos biográficos nos dará la oportunidad de reconstruir su trayectoria de vida en el tiempo y el espacio. Con este conjunto de datos, analizamos cómo esta situación restringida de movilidad diaria está vinculada a los ajustes entre las aspiraciones y las condiciones de acceso a la vivienda, a los ajustes de la vida profesional y la situación familiar y, también, a las evoluciones de las competencias y los potenciales de movilidad a lo largo de la vida de estos trabajadores. A pesar de la observación de prácticas de movilidad muy heterogéneas, podemos constatar que la larga movilidad es, a veces, el precio que tienen que pagar los trabajadores modestos con tal de integrarse socialmente en estas dos metrópolis europeas.
 
 **Palabras claves**: dependencia a la movilidad, movilidad cotidiana y residencial, enfoque biográfico, datos GPS, comparación europea.
-
-**To read the document** : Soon available in HAL. 
-
-
 

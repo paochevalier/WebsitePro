@@ -1,6 +1,6 @@
 ---
 description: Some examples of my production
-title: Data visualisation
+title: Data Visualisation
 ---
 
 # **Maps**
