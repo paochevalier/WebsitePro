@@ -5,31 +5,31 @@ title: Data Visualisation
 
 # **Maps**
 
-### *Presenting the sample of my PhD research (place of residence and daily mobility)*
+### *Presenting the sample of my PhD research (place of residence, daily mobility and place of birth)*
 
-![GPS Barcelona](/images/TrackingMAMP.png) |  ![GPS Marseille](/images/TrackingRMB.png)
+![GPS Barcelona](/images/TrackingMAMPWebsize.png) |  ![GPS Marseille](/images/TrackingRMBWebsize.png)
 :-------------------------:|:-------------------------:
 **Metropolis of Barcelona**    |**Metropolis of Marseille**
 
 
-![Origins](/images/CarteOrigines.png) 
+![Origins](/images/CarteOriginesWebsize.png) 
 **Places of birth of the individuals from my sample** 
 
 ### *Comparing two metropolises* 
 
-![ZAE](/images/ComparaisonRoutierZAE.png) |  ![Poverty Rate](/images/ComparaisonDistributionTxdePauvreté.png)
+![ZAE](/images/ComparaisonRoutierZAEWebsize.png) |  ![Poverty Rate](/images/ComparaisonDistributionTxdePauvretéWebsize.png)
 :-------------------------:|:-------------------------:
 **Road network and economic activity zones**    |**Distribution of the poverty rate**
 
 ### *2D Spatio-temporal approach to daily mobility*
 
-![GPS Barcelona](/images/2DDailyMobilityG.jpg) |  ![GPS Marseille](/images/2DDailyMobilityM.jpg)
+![GPS Barcelona](/images/2DDailyMobilityGWebsize.png) |  ![GPS Marseille](/images/2DDailyMobilityMWebsize.png)
 :-------------------------:|:-------------------------:
   **Metropolis of Barcelona** | **Metropolis of Marseille**
 
 ### *2D Spatio-temporal approach to life courses*
 
-![GPS Barcelona](/images/2DLifeTrajectoryR.jpg) |  ![GPS Marseille](/images/2DLifeTrajectoryK.jpg)
+![GPS Barcelona](/images/2DLifeTrajectoryRWebsize.png) |  ![GPS Marseille](/images/2DLifeTrajectoryKWebsize.png)
 :-------------------------:|:-------------------------:
                           |
 
@@ -37,24 +37,24 @@ title: Data Visualisation
 
 ### *Observing the combination of means of transport and waiting time*
 
-![Sequence](/images/Sequence.png)
+![Sequence](/images/SequenceWebsize.png)
 
 ### *Comparing the distribution of a variable*
 
 
-![Time](/images/Temps.jpg) |   ![Speed](/images/Vitesse.jpg)
+![Time](/images/TempsWebsize.png) |   ![Speed](/images/VitesseWebsize.png)
 :-------------------------:|:-------------------------:
   **Time** | **Speed** 
   
 
 ### *Presenting the sample of my PhD research*
 
-![Sample](/images/GraphTypologie.jpg)
+![Sample](/images/GraphTypologieWebsize.png)
 
 ### *Presenting results of a logistic regression*
 
-![RegressionBi](/images/RegressionBi.png)
+![RegressionBi](/images/RegressionBiWebsize.png)
 
 ### *Presenting results of a multinomial logistic regression*
 
-![RegressionMulti](/images/RegressionMulti.png)
+![RegressionMulti](/images/RegressionMultiWebsize.png)
