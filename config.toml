@@ -28,27 +28,21 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "/about/"
     name = "About"
     weight = 2
-    
-[[menu.main]]
-    url = "/blog/"
-    name = "Blog"
-    weight = 3
-    
    
 [[menu.main]]
     url = "/data visualisation/"
     name = "Data Visualisation"
-    weight = 4
+    weight = 3
     
 [[menu.main]]
     url = "/resume/"
     name = "Resume"
-    weight = 5
+    weight = 4
  
 [[menu.main]]
     url = "/scientific publications/"
     name = "Scientific Publications"
-    weight = 6
+    weight = 5
     
  
 # Social icons to be shown on the right-hand side of the navigation bar.
@@ -56,22 +50,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 # The list of available icons can be found at http://fontawesome.io/icons.
 
 [[menu.icon]]
-    url = "paol.chevalier@gmail.com"
-    name = "envelope-o"
-    weight = 1
-
-[[menu.icon]]
     url = "https://github.com/paochevalier/WebsitePro"
     name = "github"
-    weight = 2
+    weight = 1
 
 [[menu.icon]]
     url = "https://twitter.com/paolochevalier/"
     name = "twitter"
-    weight = 3
+    weight = 2
 
 [[menu.icon]]
     url = "https://www.linkedin.com/in/paolo-chevalier-6a0b9a88/"
     name = "linkedin"
-    weight = 4
+    weight = 3
 

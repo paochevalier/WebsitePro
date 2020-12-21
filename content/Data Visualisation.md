@@ -7,7 +7,7 @@ title: Data Visualisation
 
 ### *Presenting the sample of my PhD research (place of residence, daily mobility and place of birth)*
 
-![GPS Barcelona](/images/TrackingMAMPWebsize.png) |  ![GPS Marseille](/images/TrackingRMBWebsize.png)
+![GPS Barcelona](/images/TrackingMAMPWebsizeDeux.png) |  ![GPS Marseille](/images/TrackingRMBWebsizeDeux.png)
 :-------------------------:|:-------------------------:
 **Metropolis of Barcelona**    |**Metropolis of Marseille**
 
