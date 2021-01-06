@@ -64,7 +64,7 @@ Education
 * *Master dissertation: Study of a Residential Migration: the Ecodistrict Ginko in Bordeaux*
 
 **2011-2012**
-:   *ERAsMUS, 3rd year of the Sociology Degree*, [**Trinity College**](https://www.tcd.ie/) (Dublin, Ireland)
+:   *ERASMUS, 3rd year of the Sociology Degree*, [**Trinity College**](https://www.tcd.ie/) (Dublin, Ireland)
 \
 \
 **2010-2011**
