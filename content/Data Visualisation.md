@@ -2,6 +2,32 @@
 description: Some examples of my production
 title: Data Visualisation
 ---
+# **Graphs**
+
+### *Observing the combination of means of transport and waiting time*
+
+![Sequence](/images/SequenceWebsize.png)
+
+### *Comparing the distribution of a variable*
+
+
+![Time](/images/TempsWebsize.png) |   ![Speed](/images/VitesseWebsize.png)
+:-------------------------:|:-------------------------:
+  **Time** | **Speed** 
+  
+
+### *Presenting the sample of my PhD research*
+
+![Sample](/images/GraphTypologieWebsize.png)
+
+### *Presenting results of a logistic regression*
+
+![RegressionBi](/images/RegressionBiWebsize.png)
+
+### *Presenting results of a multinomial logistic regression*
+
+![RegressionMulti](/images/RegressionMultiWebsize.png)
+
 
 # **Maps**
 
@@ -33,28 +59,3 @@ title: Data Visualisation
 :-------------------------:|:-------------------------:
                           |
 
-# **Graphs**
-
-### *Observing the combination of means of transport and waiting time*
-
-![Sequence](/images/SequenceWebsize.png)
-
-### *Comparing the distribution of a variable*
-
-
-![Time](/images/TempsWebsize.png) |   ![Speed](/images/VitesseWebsize.png)
-:-------------------------:|:-------------------------:
-  **Time** | **Speed** 
-  
-
-### *Presenting the sample of my PhD research*
-
-![Sample](/images/GraphTypologieWebsize.png)
-
-### *Presenting results of a logistic regression*
-
-![RegressionBi](/images/RegressionBiWebsize.png)
-
-### *Presenting results of a multinomial logistic regression*
-
-![RegressionMulti](/images/RegressionMultiWebsize.png)
